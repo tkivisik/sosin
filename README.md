@@ -1,2 +1,3 @@
-# sosin
-Hääletusabiline ebaselge soosikuga inimestele
+# Valimissosin
+
+Hääletusabiline ebaselge soosikuga inimestele.
